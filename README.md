@@ -8,7 +8,7 @@ sh run.sh
 
 ## :mag: Dataset
 
-You could also directly download the complete conflict-mediation dataset from [here](https://pan.quark.cn/s/3a6f5e1af97c) (password: p2L6).
+You could download the complete conflict-mediation dataset from [here](https://pan.quark.cn/s/3a6f5e1af97c) (password: p2L6).
 
 ## :book: Citation
 If you find our paper and code useful in your research, please consider giving a star :star: and citation :book:.
