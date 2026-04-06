@@ -1,4 +1,38 @@
-# Enhancing Democratic Mediation through Norm-Awareness in Generative Agent Societies
+<a id="top"></a>
+
+<div align="center">
+
+# 🏛️ Enhancing Democratic Mediation through Norm-Awareness in Generative Agent Societies
+
+<p>
+  <b>Tianjiao Xu</b><sup>1</sup> &nbsp;
+  <b>Hao Fu</b><sup>1</sup> &nbsp;
+  <b>Suiyang Zhang</b><sup>1</sup> &nbsp;
+  <b>Jianhua Yin</b><sup>1</sup><sup>*</sup> &nbsp;
+  <b>Tian Gan</b><sup>1</sup><sup>*</sup> &nbsp;
+  <b>Liqiang Nie</b><sup>2</sup>
+</p>
+
+<p>
+  <sup>1</sup>Shandong University &nbsp;
+  <sup>2</sup>Harbin Institute of Technology, Shenzhen
+</p>
+
+<p>
+  <sup>*</sup> Corresponding authors
+</p>
+
+<p>
+  <a href="https://doi.org/10.1145/3746027.3755214">
+    <img src="https://img.shields.io/badge/ACM_MM-2025-blue.svg?style=flat-square">
+  </a>
+</p>
+
+<p>
+  <b>A norm-aware generative agent framework for simulating democratic mediation, enabling multimodal conflict modeling and iterative resolution through social norm reasoning.</b>
+</p>
+
+</div>
 
 ## :rocket: Getting Started
 
